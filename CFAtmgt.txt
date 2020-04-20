@@ -1,0 +1,36 @@
+
+Bill reference number = 52104
+Fries * 1.00 = Rs 140.00
+Noodles * 1.00 = Rs 90.00
+Soup * 1.00 = Rs 140.00
+Burger * 1.00 = Rs 260.00
+Sandwich * 1.00 = Rs 300.00
+Drinks * 1.00 = Rs 65.00
+Cost of Meal = Rs 995.00
+GST = Rs 89.55
+SGST = Rs 89.55
+Sub Total = Rs 995.00
+Total Cost = Rs 1174.10
+
+Bill reference number = 387491
+Fries * 1.00 = CFA 140.00
+Noodles * 1.00 = CFA 90.00
+Soup * 1.00 = CFA 140.00
+Burger * 1.00 = CFA 260.00
+Sandwich * 1.00 = CFA 300.00
+Drinks * 1.00 = CFA 65.00
+Cost of Meal = CFA 995.00
+GST = CFA 89.55
+SGST = CFA 89.55
+Sub Total = CFA 995.00
+Total Cost = CFA 1174.10
+
+Bill reference number = 126481
+Fries * 2.00 = CFA 280.00
+Noodles * 1.00 = CFA 90.00
+Soup * 1.00 = CFA 140.00
+Burger * 1.00 = CFA 260.00
+Sandwich * 1.00 = CFA 300.00
+Drinks * 1.00 = CFA 65.00
+Cost of Meal = CFA 1135.00
+GST = CFA 102.15
