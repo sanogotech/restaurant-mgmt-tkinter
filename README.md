@@ -9,4 +9,4 @@ I have used the tkinter package, the application is made using entries, labels, 
 also, file handling is used in this application.
 ```
 
-![alt text](https://github.com/sanogotech/restaurant-mgmt-tkinter/blob/master/rtmt3.png)
+![alt text](https://github.com/sanogotech/restaurant-mgmt-tkinter/blob/master/restaupython.jpg)
